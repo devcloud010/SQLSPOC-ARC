@@ -38,3 +38,4 @@ Download instruction for how to build this dashboard in "install and setup Azure
 ```mermaid
 graph LR;
   A -- and-->B--- to -->C
+```
