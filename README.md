@@ -21,3 +21,17 @@ Download instruction for how to build this dashboard in "install and setup Azure
 
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
+<details>
+  <summary>Click to here. </summary>
+   
+   ### You can add a message here
+
+   You can add text within a collapsed section. 
+
+   You can add an image or a code block, too.
+
+   ```ruby
+     puts "Hello World"
+   ```
+  
+</details>
